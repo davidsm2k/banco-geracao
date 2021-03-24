@@ -24,4 +24,4 @@ David -> https://github.com/davidsm2k/banco-geracao
 
 #### Tecnologia Utilizada:
 
-<img src="./icon-por.jpg" alt="icon-por" style="zoom: 50%;" align = "left" />
+<img src="./icon-por.jpg" alt="icon-por"  align = "left" />
