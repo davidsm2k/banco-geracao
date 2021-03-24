@@ -2,7 +2,7 @@
 
 #### Descrição: 
 
-##### Projeto realizado durante o bootcamp da Generation Brasil para formação de Desenvolvedor(a)(e) Full Stack Java Junior, com o fim de criar um algumas funcionalidade de um banco.
+##### Projeto realizado durante o bootcamp da Generation Brasil para formação de Desenvolvedor(a)(e) Full Stack Java Junior, com o fim de criar um algumas funcionalidades de um banco.
 
 ###### Para mais informações sobre o projeto <a href="https://docs.google.com/spreadsheets/d/1grOZqpNhus_eG4QJx7oEWiq92rQabz46UoNjM-P_e8Q/edit?usp=sharing">clique aqui</a>
 
